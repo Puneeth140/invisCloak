@@ -57,4 +57,4 @@ Run the application:
     python main.py
 
 
-👨‍🔬 AuthorPuneeth Master’s Student | Aspiring AI & CV Engineer
+👨‍🔬 Author Puneeth Master’s Student 
